@@ -4,9 +4,8 @@ The codes for this project were written to implement an agent-environment model 
 
 The folder named "input_data_generator" is used to generate input data for the simulation. These are the codes used to randomly generate sample paths of each iteration as well as optimization model of the static decisions of the network that are made before the start of the simulation. 
 
-The folder named "simulation" consists of the codes for classes of the simulation model as well as the agents executing policies. 
+The folder named "simulation" consists of the codes for classes of the simulation model as well as the agents executing policies. The file named "simulation_code_structure.txt" shows the structure of the code in the simulation folder. 
 
-#Here is the structure of the code in the simulation folder
 
 
 
