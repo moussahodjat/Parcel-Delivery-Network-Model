@@ -1,4 +1,4 @@
-# parcel_network_simulation
+# Parcel Delivery Network Model
 
 The codes for this project were written to implement an agent-environment model on vehicle scheduling in the parcel delivery network. The environment is the simulation model written in SimPy, and the agent specifies the actions periodically to the environment and in turn receives feedbacks and state of the system. 
 
